@@ -1,5 +1,5 @@
  document.addEventListener('DOMContentLoaded', () => {
-        const baseUrl = 'http://localhost:3000/characters';
+        const baseUrl = 'https://json-server-vercel-rho-umber.vercel.app/characters';
         const characterBar = document.querySelector('#character-bar');
         const nameDisplay = document.querySelector('#name');
         const imageDisplay = document.querySelector('#image');
